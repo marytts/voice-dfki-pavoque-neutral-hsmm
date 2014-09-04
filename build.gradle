@@ -1,0 +1,14 @@
+voice {
+    name 'dfki-pavoque-neutral-hsmm'
+    language 'de'
+    gender 'male'
+    type 'hsmm'
+    description 'temporary'
+    samplingRate 16000
+}
+
+license {
+    name 'temporary'
+    shortName 'temporary'
+    url 'temporary'
+}
