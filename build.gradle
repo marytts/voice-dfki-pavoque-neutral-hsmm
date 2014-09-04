@@ -3,12 +3,12 @@ voice {
     language 'de'
     gender 'male'
     type 'hsmm'
-    description 'temporary'
+    description 'A male German hidden semi-Markov model voice'
     samplingRate 16000
 }
 
 license {
-    name 'temporary'
-    shortName 'temporary'
-    url 'temporary'
+    name 'Creative Commons Attribution-NoDerivs 3.0 Unported'
+    shortName 'CC-BY-ND'
+    url 'http://creativecommons.org/licenses/by-nd/3.0/'
 }
