@@ -1,6 +1,8 @@
 voice {
     name = 'dfki-pavoque-neutral-hsmm'
-    language = 'de'
+    locale {
+        language = 'de'
+    }
     gender = 'male'
     type = 'hsmm'
     description = 'A male German hidden semi-Markov model voice'
